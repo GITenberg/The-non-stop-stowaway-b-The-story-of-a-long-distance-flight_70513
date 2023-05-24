@@ -1,5 +1,8 @@
 _repo: The-non-stop-stowaway-b-The-story-of-a-long-distance-flight_70513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70513-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Clayton
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53874
     wikipedia: https://en.wikipedia.org/wiki/Clayton_Knight
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70513#The-non-stop-stowaway-b-The-story-of-a-long-distance-flight
 gutenberg_issued: '2023-04-09'
 identifiers:
   gutenberg: '70513'
